@@ -8,9 +8,9 @@ O objetivo deste teste é encontrar a melhor combinação de recursos computacio
 
 operations/isa/logbook/bff/api/v1/login |
 **CPU:**
-2%/ 23% |
+2% e 23% |
 **Memória requests/limits:**
-55% / 57% |
+55% e 57% |
 **Réplicas**
 10
 
