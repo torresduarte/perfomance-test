@@ -5,11 +5,14 @@ O objetivo deste teste é encontrar a melhor combinação de recursos computacio
 # Teste 01
 
 **Aplicação**: 
+
 operations/isa/logbook/bff/api/v1/login |
 **CPU:**
 2%/ 23% |
 **Memória requests/limits:**
 55% / 57% |
+**Réplicas**
+10
 
 
 Jmeter com 50 threads e 1 segundo de inicialização
