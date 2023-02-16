@@ -4,10 +4,14 @@ O objetivo deste teste é encontrar a melhor combinação de recursos computacio
 
 # Teste 01
 
+**Aplicação**: 
+operations/isa/logbook/bff/api/v1/login
+**CPU**
+500/ 1000m
+**Memória requests/limits**
+512Mi / Gi
 
 
-  __________    ___________
-| Aplicação   | CPU        |
 
 
 
