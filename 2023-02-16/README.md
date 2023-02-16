@@ -6,7 +6,8 @@ O objetivo deste teste é encontrar a melhor combinação de recursos computacio
 
 
 
-
+  __________    ___________
+| Aplicação   | CPU        |
 
 
 
